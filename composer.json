@@ -1,5 +1,5 @@
 {
-    "name": "auth0/login",
+    "name": "cegrent/auth0-laravel",
     "description": "Laravel plugin that helps authenticate with the auth0 service",
     "license": "MIT",
     "prefer-stable": true,
